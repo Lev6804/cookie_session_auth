@@ -39,6 +39,11 @@ Body → raw (JSON):
 📸 ![Registdb](img/login_db.png)
 
 ---
+###  Profile
+**POST** `http://localhost:3000/auth/login`  
+📸 ![Login](img/profile.png)
+
+---
 
 ### Logout
 **GET** `http://localhost:3000/auth/loguot`  
